@@ -27,3 +27,10 @@ Onchain rental guarantee infrastructure — transparent programmable protocols f
 
 - **Draau** — Founder, 5+ years Web3
 - **jubs** — Fullstack development & design
+
+## Access
+
+| Team | Permission | Who |
+|------|-----------|-----|
+| **builders** | Maintain — push branches, open & merge PRs, manage issues | Core contributors |
+| **judges** | Read — view code, issues, and PRs (no write access) | Hackathon & competition evaluators |
